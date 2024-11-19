@@ -14,3 +14,10 @@ O modelo conceitual descreve as entidades principais e os relacionamentos no sis
 
 1. Clone este repositório.
 2. Execute o script `script_modelo.sql` no seu banco de dados MySQL para criar as tabelas.
+
+
+### Legenda do Diagrama
+
+- **PK**: Chave primária
+- **FK**: Chave estrangeira
+- **1 — N**: Relacionamento um-para-muitos (um cliente pode ter múltiplos pagamentos ou entregas)
